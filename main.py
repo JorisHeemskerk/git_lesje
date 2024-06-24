@@ -5,3 +5,7 @@ def helloWorld()-> str:
 
 def main()-> None:
     print(helloWorld())
+
+
+if __name__ == "__main__":
+    main()

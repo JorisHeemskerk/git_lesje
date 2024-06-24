@@ -1,10 +1,13 @@
-import numpy as np
+def hello_world()-> str:
+    """
+    This function returns the string 'Hello World!'
 
-def helloWorld()-> str:
+    @return string with 'Hello World!'
+    """
     return "Hello World!"
 
 def main()-> None:
-    print(helloWorld())
+    print(hello_world())
 
 if __name__ == "__main__":
     main()

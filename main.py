@@ -1,5 +1,3 @@
-import numpy as np
-
 def helloWorld()-> str:
     """
     This function returns the string 'Hello World!'

@@ -1,4 +1,4 @@
-def helloWorld()-> str:
+def hello_world()-> str:
     """
     This function returns the string 'Hello World!'
 
